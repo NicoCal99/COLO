@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <!-- redirect immediately -->
+    <meta http-equiv="refresh" content="0; URL='https://script.google.com/macros/s/AKfycbzsqaPOPPTBe1ZFT1QFDt5x5KWxeuCWRXTl-UmUKRCV68D7bJi7NaIB0P4Lx3udjlZQsA/exec'" />
+    <title>Slot Tracker</title>
+  </head>
+  <body>
+    <!-- fallback link if redirect fails -->
+    <p>Redirecting… if nothing happens, <a href="https://script.google.com/macros/s/AKfycbzsqaPOPPTBe1ZFT1QFDt5x5KWxeuCWRXTl-UmUKRCV68D7bJi7NaIB0P4Lx3udjlZQsA/exec">click here</a>.</p>
+  </body>
+</html>
